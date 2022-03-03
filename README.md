@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently looking for new career opportunites
+- 🌱 I’m currently learning Powershell, Azure, and Python
+
 <!--
 **1337Lee/1337Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
